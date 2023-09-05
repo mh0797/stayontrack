@@ -27,7 +27,7 @@ without sacrificing average performance.
 
 
 ## Results
-Planning results on the proposed scene-attack benchmark. Please refer to the [Paper](https://arxiv.org/abs/2306.00605/) for more details.
+Planning results on the proposed scene-attack benchmark. Please refer to the <a href="https://arxiv.org/abs/2306.00605">Paper</a> for more details.
 
 ### Perturbation 1: Single Turn
 
