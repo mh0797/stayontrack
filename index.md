@@ -27,13 +27,13 @@ without sacrificing average performance.
 
 
 ## Results
-Planning results on the proposed scene-attack benchmark. Please refer to the <a href="https://arxiv.org/abs/2306.00605">Paper</a> for more details.
+Planning results on the proposed scene-attack benchmark. Please refer to the [Paper](https://arxiv.org/abs/2306.00605) for more details.
 
 ### Perturbation 1: Single Turn
 
 | **Model**        |  **minADE** | **ORP** | **MR**  |
 |-------------------| ------------|--------------|------------|
-| [MultiPath++](https://arxiv.org/abs/2111.14973)*  | 3.139         | 65.5           | 96.5         |
+| [MultiPath++](https://arxiv.org/abs/2111.14973)  | 3.139         | 65.5           | 96.5         |
 | MultiPath++SD (**ours**)       | 1.388       | 3.6         | 88.0           | 
 | [LaneGCN](https://arxiv.org/abs/2007.13732)        | 2.063        | 38.2         | 93.9           |
 | LaneGCN-SD (**ours**)           | 1.209   | 3.1         | 85.6           |
@@ -42,7 +42,7 @@ Planning results on the proposed scene-attack benchmark. Please refer to the <a 
 
 | **Model**        |  **minADE** | **ORP** | **MR**  |
 |-------------------| ------------|--------------|------------|
-| [MultiPath++](https://arxiv.org/abs/2111.14973)*  | 2.574         | 67.1           | 96.3         |
+| [MultiPath++](https://arxiv.org/abs/2111.14973)  | 2.574         | 67.1           | 96.3         |
 | MultiPath++SD (**ours**)       | 1.132       | 3.7         | 78.5           | 
 | [LaneGCN](https://arxiv.org/abs/2007.13732)        | 2.372        | 63.9         | 94.4           |
 | LaneGCN-SD (**ours**)           | 10.987   | 3.5         | 70.3           |
@@ -51,7 +51,7 @@ Planning results on the proposed scene-attack benchmark. Please refer to the <a 
 
 | **Model**        |  **minADE** | **ORP** | **MR**  |
 |-------------------| ------------|--------------|------------|
-| [MultiPath++](https://arxiv.org/abs/2111.14973)*  | 3.549         | 72.9           | 97.9         |
+| [MultiPath++](https://arxiv.org/abs/2111.14973)  | 3.549         | 72.9           | 97.9         |
 | MultiPath++SD (**ours**)       | 1.331       | 3.5         | 85.2           | 
 | [LaneGCN](https://arxiv.org/abs/2007.13732)        | 3.094        | 61.2         | 96.2           |
 | LaneGCN-SD (**ours**)           | 1.144   | 2.9         | 81.7           |
