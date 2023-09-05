@@ -1,6 +1,6 @@
 <p align="center">
     <h1 align="center">Stay on Track: A Frenet Wrapper to Overcome Off-road Trajectories in Vehicle Motion Prediction</h1>
-    <h3 align="center"><a href="https://arxiv.org/abs/2306.00605">Paper</a> | <a href="#">Supplementary</a> | Code (will be added after review) </h3>
+    <h3 align="center"><a href="https://arxiv.org/abs/2306.00605">Paper</a> | <a href="StayOnTrack_SupMat.pdf">Supplementary</a> | Code (will be added after review) </h3>
     <img alt="method overview" src="Method_overview.png">
 </p>
 <br/>
