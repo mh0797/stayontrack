@@ -1,7 +1,3 @@
----
-title: Document Center
----
-
 <p align="center">
     <h1 align="center">Stay on Track: A Frenet Wrapper to Overcome Off-road Trajectories in Vehicle Motion Prediction</h1>
     <h3 align="center"><a href="https://arxiv.org/abs/2306.00605">Paper</a> | <a href="#">Supplementary</a> | Code (will be added after review) </h3>
@@ -37,6 +33,7 @@ Planning results on the proposed scene-attack benchmark. Please refer to the [Pa
 </p>
 
 ### Perturbation 1: Single Turn
+
 | **Model**        |  **minADE** | **ORP** | **MR**  |
 |-------------------| ------------|--------------|------------|
 | [MultiPath++](https://arxiv.org/abs/2111.14973)*  | 3.139         | 65.5           | 96.5         |
@@ -45,6 +42,7 @@ Planning results on the proposed scene-attack benchmark. Please refer to the [Pa
 | LaneGCN-SD (**ours**)           | 1.209   | 3.1         | 85.6           |
 
 ### Perturbation 2: Double Turn
+
 | **Model**        |  **minADE** | **ORP** | **MR**  |
 |-------------------| ------------|--------------|------------|
 | [MultiPath++](https://arxiv.org/abs/2111.14973)*  | 2.574         | 67.1           | 96.3         |
@@ -53,6 +51,7 @@ Planning results on the proposed scene-attack benchmark. Please refer to the [Pa
 | LaneGCN-SD (**ours**)           | 10.987   | 3.5         | 70.3           |
 
 ### Perturbation 3: Rippe Road
+
 | **Model**        |  **minADE** | **ORP** | **MR**  |
 |-------------------| ------------|--------------|------------|
 | [MultiPath++](https://arxiv.org/abs/2111.14973)*  | 3.549         | 72.9           | 97.9         |
