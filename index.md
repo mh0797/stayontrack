@@ -10,7 +10,7 @@
 > <sup>1</sup> Robert Bosch GmbH, <sup>2</sup> University of Tübingen
 
 <br/>
-TL;DR: We show that using a Frenet representation makes SotA motion prediction models more map compliant, i.e. significantly reduces offroad-predictions
+**TL;DR**: We show that using a Frenet representation makes SotA motion prediction models more map compliant, i.e. significantly reduces offroad-predictions
 
 
 
