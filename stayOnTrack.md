@@ -1,5 +1,5 @@
 ---
-title: Stay on Track: A Frenet Wrapper to Overcome Off-road Trajectories in Vehicle Motion Prediction
+title: Document Center
 ---
 
 <p align="center">
